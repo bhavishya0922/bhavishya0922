@@ -1,72 +1,123 @@
-# Hi, I'm Bhavishya Dewangan 👋
+<div align="center">
 
-Computer Science & Engineering undergraduate at **Shri Shankaracharya Institute of Professional Management and Technology (SSIPMT)**, Raipur. I specialize in backend development, data structures & algorithms, and building scalable full-stack web applications.
+<img src="./hero.svg" alt="Bhavishya Dewangan - Developer Profile Banner" width="100%">
 
----
+<br/><br/>
 
-### 🔭 Current Focus
+[![GitHub followers](https://img.shields.io/github/followers/bhavishya0922?label=Followers&style=for-the-badge&logo=github&color=10B981&labelColor=0D1117)](https://github.com/bhavishya0922)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/bhavishya0922)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:bhavishyareachout@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Learning_%26_Building-06B6D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117)](https://github.com/bhavishya0922)
 
-- **Building:** Full-stack scalable web applications and RESTful microservices.
-- **Learning:** System design fundamentals, distributed caching with Redis, and Docker containerization.
-- **Practicing:** Data structures and algorithmic problem solving on LeetCode.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-[https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white]
-[https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white]
-[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black]
-[https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white]
-[https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white]
-
-**Frameworks & Libraries**  
-[https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white]
-[https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white]
-[https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB]
-[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white]
-
-**Databases & Tools**  
-[https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white]
-[https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white]
-[https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white]
-[https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white]
-[https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white]
+</div>
 
 ---
 
-### 📌 Featured Projects
+### 👨‍💻 About Me
 
-#### [DevQuery API](https://github.com/bhavishya0922/devquery-api)
-A production-grade RESTful API service for developer question-and-answer exchanges, featuring JWT-based authentication, role-based authorization, rate limiting, and PostgreSQL full-text search.
-- **Tech Stack:** Node.js, Express.js, PostgreSQL, Prisma ORM, Redis, Docker
-- **Key Features:** Connection pooling, token blacklist revocation via Redis, automated integration testing.
+> **Computer Science & Engineering undergraduate focused on backend development, problem solving, and building practical software systems.**
 
-#### [TaskPulse — Collaborative Workspace](https://github.com/bhavishya0922/taskpulse)
-Real-time task and project collaboration dashboard enabling teams to manage sprints, track kanban states, and sync activities with low-latency event broadcasting.
-- **Tech Stack:** React, TypeScript, Node.js, MongoDB, Socket.io, Tailwind CSS
-- **Key Features:** WebSocket synchronization, optimistic UI updates, drag-and-drop board workflow.
+I'm a Computer Science & Engineering student at **Shri Shankaracharya Institute of Professional Management and Technology (SSIPMT), Raipur**.
 
-#### [AlgoVisualizer](https://github.com/bhavishya0922/algo-visualizer)
-Interactive algorithmic visualizer designed to demonstrate sorting algorithms (QuickSort, MergeSort) and pathfinding routines (Dijkstra, A*) with step-by-step state animations.
-- **Tech Stack:** React, TypeScript, HTML5 Canvas, Vite
-- **Key Features:** Execution speed control, custom maze generation, space-time complexity indicators.
+My current focus is on strengthening **Data Structures & Algorithms**, developing reliable **backend systems**, and building full-stack applications using modern web technologies.
+
+I'm particularly interested in understanding how software moves beyond individual features into **well-structured, maintainable, and scalable systems**.
+
+---
+
+### 🧭 Core Engineering Focus
+
+<div align="center">
+
+| 1. Problem Solving | 2. Backend Engineering | 3. Full-Stack Development |
+|:---|:---|:---|
+| • C++ & DSA<br/>• Algorithmic Problem Solving<br/>• Complexity Analysis<br/>• LeetCode Practice | • RESTful API Design<br/>• Node.js & Express.js<br/>• Authentication & Authorization<br/>• PostgreSQL & MongoDB | • React & TypeScript<br/>• Responsive Interfaces<br/>• Real-Time Applications<br/>• Modern Frontend Architecture |
+
+</div>
+
+---
+
+### 🛠️ Skills & Technologies
+
+<div align="center">
+
+| Category | Technologies & Tools |
+|---|---|
+| **Programming Languages** | `C++` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `SQL` |
+| **Frontend** | `React` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `HTML5` &nbsp;•&nbsp; `Vite` |
+| **Backend** | `Node.js` &nbsp;•&nbsp; `Express.js` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Socket.io` |
+| **Databases** | `PostgreSQL` &nbsp;•&nbsp; `MongoDB` &nbsp;•&nbsp; `Redis` |
+| **Development Tools** | `Git` &nbsp;•&nbsp; `GitHub` &nbsp;•&nbsp; `Docker` &nbsp;•&nbsp; `Postman` &nbsp;•&nbsp; `Prisma` |
+| **Currently Exploring** | `System Design` &nbsp;•&nbsp; `Distributed Caching` &nbsp;•&nbsp; `Docker` &nbsp;•&nbsp; `Scalable Backend Architecture` |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<img src="./projects.svg" alt="Featured Projects" width="100%">
+
+</div>
+
+<br/>
+
+| Project | Description | Tech Stack | Links |
+|:---|:---|:---|:---:|
+| **[DevQuery API](https://github.com/bhavishya0922/devquery-api)** | Backend API for a developer-focused question-and-answer platform. Implements authentication, authorization, API protection, database-backed search, and backend testing. | `Node.js` `Express.js` `PostgreSQL` `Prisma` `Redis` `Docker` | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhavishya0922/devquery-api) |
+| **[TaskPulse](https://github.com/bhavishya0922/taskpulse)** | Collaborative task-management application focused on real-time project workflows, kanban-style organization, and synchronized team activity. | `React` `TypeScript` `Node.js` `MongoDB` `Socket.io` `Tailwind CSS` | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhavishya0922/taskpulse) |
+| **[AlgoVisualizer](https://github.com/bhavishya0922/algo-visualizer)** | Interactive algorithm visualizer for exploring sorting and pathfinding algorithms through step-by-step execution and visual state changes. | `React` `TypeScript` `Vite` `HTML5 Canvas` | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhavishya0922/algo-visualizer) |
+
+---
+
+### 🧠 Problem Solving
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhavishya0922)
+
+</div>
+
+Focused on improving algorithmic thinking through regular practice with **Data Structures & Algorithms, complexity analysis, and competitive problem solving**.
 
 ---
 
 ### 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavishya0922&show_icons=true&theme=tokyonight&hide_border=true" alt="Bhavishya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishya0922&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhavishya0922&show_icons=true&hide_border=true&rank_icon=github" width="48%" alt="Bhavishya's GitHub Statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishya0922&layout=compact&hide_border=true" width="40%" alt="Bhavishya's Most Used Languages">
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
+### 📫 Get In Touch
 
-[[https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/bhavishya0922)
-[[https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black]](https://leetcode.com/u/bhavishya0922)
-[[https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white]](https://github.com/bhavishya0922)
-[[https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white]](mailto:bhavishyareachout@gmail.com)
+<div align="center">
+
+**Open to software engineering internships, technical collaboration, and opportunities to build real-world software.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/bhavishya0922">
+  <img src="https://img.shields.io/badge/LinkedIn-Bhavishya_Dewangan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bhavishyareachout@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bhavishyareachout%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/bhavishya0922">
+  <img src="https://img.shields.io/badge/GitHub-bhavishya0922-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<sub>© 2026 Bhavishya Dewangan • Computer Science & Engineering Undergraduate</sub>
+
+</div>
